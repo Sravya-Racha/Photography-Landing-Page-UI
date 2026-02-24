@@ -41,7 +41,8 @@ This project features a glassmorphism sidebar, smooth animations, hover effects,
 ## 📸 Preview
 
 
-<img width="1884" height="998" alt="Screenshot 2026-02-24 174935" src="https://github.com/user-attachments/assets/15de8d82-cb8a-471f-a641-eb2504627fac" />
+<img width="1891" height="890" alt="image" src="https://github.com/user-attachments/assets/ad10d8e8-246b-46ac-b7b2-c60e2a292c4b" />
+
 
 
 ---
