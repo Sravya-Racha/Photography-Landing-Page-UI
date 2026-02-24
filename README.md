@@ -29,3 +29,43 @@ This project features a glassmorphism sidebar, smooth animations, hover effects,
 ---
 
 ## 📂 Project Structure
+📦 Photography-Landing-Page
+┣ 📜 index.html
+┣ 📜 style.css
+┣ 📷 photo.jpg
+┗ 📜 README.md
+
+
+---
+
+## 📸 Preview
+
+
+<img width="1884" height="998" alt="Screenshot 2026-02-24 174935" src="https://github.com/user-attachments/assets/15de8d82-cb8a-471f-a641-eb2504627fac" />
+
+
+---
+
+## 🎯 Learning Outcomes
+
+- CSS Positioning (absolute, fixed)
+- CSS Transitions & Animations
+- Sidebar Toggle using Checkbox Hack
+- Glassmorphism Design
+- Modern UI Styling Techniques
+
+---
+
+## 📌 Future Improvements
+
+- Add full mobile responsiveness
+- Convert into multi-page portfolio website
+- Add JavaScript for advanced animations
+- Add theme switcher (Dark/Light Mode)
+
+---
+
+## 👩‍💻 Author
+
+**Sravya Racha**  
+B.E AIML | Frontend Enthusiast  
